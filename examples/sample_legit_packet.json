@@ -1,0 +1,7 @@
+{
+  "ground_station_id": "GS-ALPHA",
+  "command": "CMD: ORIENT +10",
+  "sequence_count": 1,
+  "timestamp": "2024-01-01T00:00:00Z",
+  "note": "HMAC signed with shared key; should be accepted"
+}

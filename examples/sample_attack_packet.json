@@ -1,0 +1,7 @@
+{
+  "ground_station_id": "GS-ALPHA",
+  "command": "CMD: SHUTDOWN_THRUSTERS",
+  "sequence_count": 99,
+  "timestamp": "2024-01-01T00:00:00Z",
+  "note": "Spoofed packet without valid signature; should be rejected"
+}
